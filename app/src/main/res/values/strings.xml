@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AIRefinery</string>
+    <string name="generate">Refine</string>
+    <string name="stop">Stop</string>
+    <string name="extra_context">Add context (optional)</string>
+    <string name="input_text">Insert your text here</string>
+    <string name="output_text">Generated output will appear here</string>
+    <string name="copy">Copy to clipboard</string>
+    <string name="output_to_input">Refine further</string>
+</resources>

@@ -1,0 +1,12 @@
+*.iml
+.gradle
+.idea
+.vscode
+.DS_Store
+local.properties
+build
+captures
+.externalNativeBuild
+.cxx
+tmp.trash
+app/src/main/assets/EXAONE-3.5-2.4B-Instruct-Q4_K_M.gguf
